@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+numpy==1.22.2
+pandas==1.4.0
+selenium==4.1.0
+smartapi==1.1.0
+smartapi_python==1.2.9
+webdriver_manager==3.5.2
+yfinance==0.1.70
